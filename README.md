@@ -20,4 +20,4 @@ Este proyecto es un sistema bancario simple desarrollado en Python que permite g
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/nombre-del-repositorio.git
+git clone https://github.com/wilson-santos99/IPC2_Practica01_201907179.git
